@@ -1,0 +1,1 @@
+Sevakula, R. K., Singh, V., Verma, N. K., Kumar, C., & Cui, Y. (2018). Transfer learning for molecular cancer classification using deep neural networks. IEEE/ACM transactions on computational biology and bioinformatics, 16(6), 2089-2100.
