@@ -46,7 +46,7 @@ Navigate to the Deep_Transfer_Learning folder
 
 Run the main script:
 
-run main.m
+run Proposed_Classification_Procedure.m
 Modify main.m or related scripts to load your own dataset.
 
 📁 Directory Structure
